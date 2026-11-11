@@ -1,0 +1,7 @@
+* text=auto
+*.sql text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.png binary
+schema/originals/*.sql -text
+queries/originals/*.sql -text

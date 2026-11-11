@@ -1,0 +1,186 @@
+{
+  "selected_report": "Lab5_SDAG_Team3 (3).pdf",
+  "selected_report_sha256": "105d86e2cb8dea53d8a3b64b32a635e88bfb0d7f2f1fdc874bc379b8b299b0be",
+  "selection": "Latest recovered local PDF variant by modification time; official submission status not independently verified. Report itself is excluded at the user request.",
+  "files": [
+    {
+      "file": "schema/originals/techpulse_setup_updated.sql",
+      "source_file": "techpulse_setup_updated.sql",
+      "source_sha256": "5d30f8fbb343838077dca0c2978850f481ec93c157173ce16e534d5c31ca79f8",
+      "method": "Byte-for-byte original"
+    },
+    {
+      "file": "queries/originals/techpulse_queries_updated.sql",
+      "source_file": "techpulse_queries_updated.sql",
+      "source_sha256": "c7fde3d35a073481f31ee72204c288716b427651f392a1a565a9a1da090a657a",
+      "method": "Byte-for-byte original"
+    },
+    {
+      "file": "diagrams/SC2207_LAB.drawio.png",
+      "source_file": "SC2207_LAB.drawio.png",
+      "source_sha256": "ce3d56dd857850f6b1fd065bd793646b8bf766afe7bfc02fc2bf1b80141c6282",
+      "method": "Byte-for-byte original"
+    },
+    {
+      "file": "diagrams/SC2207_LAB.drawio (2).png",
+      "source_file": "SC2207_LAB.drawio (2).png",
+      "source_sha256": "b8d5f878bd1a30028e5c9206236ea211780d0beaef3f69e8a75c015244cbbd04",
+      "method": "Byte-for-byte original"
+    },
+    {
+      "file": "diagrams/lab5-er-diagram.png",
+      "source_file": "Lab5_SDAG_Team3 (3).pdf",
+      "source_sha256": "105d86e2cb8dea53d8a3b64b32a635e88bfb0d7f2f1fdc874bc379b8b299b0be",
+      "method": "Embedded image extracted without redrawing",
+      "source_location": "PDF page 3"
+    },
+    {
+      "file": "schema/create_tables.sql",
+      "source_file": "Lab5_SDAG_Team3 (3).pdf",
+      "source_sha256": "105d86e2cb8dea53d8a3b64b32a635e88bfb0d7f2f1fdc874bc379b8b299b0be",
+      "method": "SQL text extraction; wrapped string literals restored from matching original SQL",
+      "source_location": "PDF pages 9-14"
+    },
+    {
+      "file": "data/sample_data.sql",
+      "source_file": "Lab5_SDAG_Team3 (3).pdf",
+      "source_sha256": "105d86e2cb8dea53d8a3b64b32a635e88bfb0d7f2f1fdc874bc379b8b299b0be",
+      "method": "SQL text extraction; wrapped string literals restored from matching original SQL",
+      "source_location": "PDF pages 15-18"
+    },
+    {
+      "file": "queries/Q1_procedure_duration.sql",
+      "source_file": "Lab5_SDAG_Team3 (3).pdf",
+      "source_sha256": "105d86e2cb8dea53d8a3b64b32a635e88bfb0d7f2f1fdc874bc379b8b299b0be",
+      "method": "SQL text extraction; wrapped string literals restored from matching original SQL",
+      "source_location": "PDF pages 23-24"
+    },
+    {
+      "file": "queries/Q2_revenue.sql",
+      "source_file": "Lab5_SDAG_Team3 (3).pdf",
+      "source_sha256": "105d86e2cb8dea53d8a3b64b32a635e88bfb0d7f2f1fdc874bc379b8b299b0be",
+      "method": "SQL text extraction; wrapped string literals restored from matching original SQL",
+      "source_location": "PDF pages 24-25"
+    },
+    {
+      "file": "queries/Q3_technician_mismatch_claims.sql",
+      "source_file": "Lab5_SDAG_Team3 (3).pdf",
+      "source_sha256": "105d86e2cb8dea53d8a3b64b32a635e88bfb0d7f2f1fdc874bc379b8b299b0be",
+      "method": "SQL text extraction; wrapped string literals restored from matching original SQL",
+      "source_location": "PDF pages 25-27"
+    },
+    {
+      "file": "queries/Q4_diagnostic_claims.sql",
+      "source_file": "Lab5_SDAG_Team3 (3).pdf",
+      "source_sha256": "105d86e2cb8dea53d8a3b64b32a635e88bfb0d7f2f1fdc874bc379b8b299b0be",
+      "method": "SQL text extraction; wrapped string literals restored from matching original SQL",
+      "source_location": "PDF pages 27"
+    },
+    {
+      "file": "queries/Q5a_corporate_allocation.sql",
+      "source_file": "Lab5_SDAG_Team3 (3).pdf",
+      "source_sha256": "105d86e2cb8dea53d8a3b64b32a635e88bfb0d7f2f1fdc874bc379b8b299b0be",
+      "method": "SQL text extraction; wrapped string literals restored from matching original SQL",
+      "source_location": "PDF pages 28-30"
+    },
+    {
+      "file": "queries/Q5b_retail_allocation.sql",
+      "source_file": "Lab5_SDAG_Team3 (3).pdf",
+      "source_sha256": "105d86e2cb8dea53d8a3b64b32a635e88bfb0d7f2f1fdc874bc379b8b299b0be",
+      "method": "SQL text extraction; wrapped string literals restored from matching original SQL",
+      "source_location": "PDF pages 30-32"
+    },
+    {
+      "file": "queries/Q5c_warranty_allocation.sql",
+      "source_file": "Lab5_SDAG_Team3 (3).pdf",
+      "source_sha256": "105d86e2cb8dea53d8a3b64b32a635e88bfb0d7f2f1fdc874bc379b8b299b0be",
+      "method": "SQL text extraction; wrapped string literals restored from matching original SQL",
+      "source_location": "PDF pages 33-35"
+    },
+    {
+      "file": "queries/Q6_repeat_visits.sql",
+      "source_file": "Lab5_SDAG_Team3 (3).pdf",
+      "source_sha256": "105d86e2cb8dea53d8a3b64b32a635e88bfb0d7f2f1fdc874bc379b8b299b0be",
+      "method": "SQL text extraction; wrapped string literals restored from matching original SQL",
+      "source_location": "PDF pages 36-37"
+    },
+    {
+      "file": "queries/Q7_reorder_stock.sql",
+      "source_file": "Lab5_SDAG_Team3 (3).pdf",
+      "source_sha256": "105d86e2cb8dea53d8a3b64b32a635e88bfb0d7f2f1fdc874bc379b8b299b0be",
+      "method": "SQL text extraction; wrapped string literals restored from matching original SQL",
+      "source_location": "PDF pages 37"
+    },
+    {
+      "file": "schema/relational-schema.md",
+      "source_file": "Lab5_SDAG_Team3 (3).pdf",
+      "source_sha256": "105d86e2cb8dea53d8a3b64b32a635e88bfb0d7f2f1fdc874bc379b8b299b0be",
+      "method": "Table extraction to Markdown; continued rows joined; wording preserved",
+      "source_location": "PDF pages 4-8"
+    },
+    {
+      "file": "docs/ASSUMPTIONS.md",
+      "source_file": "Lab5_SDAG_Team3 (3).pdf",
+      "source_sha256": "105d86e2cb8dea53d8a3b64b32a635e88bfb0d7f2f1fdc874bc379b8b299b0be",
+      "method": "Text extraction; original wording",
+      "source_location": "PDF pages 21-22"
+    }
+  ],
+  "verified_literal_reflow": [
+    {
+      "file": "schema/create_tables.sql",
+      "before": "'In\nProgress'",
+      "after": "'In Progress'"
+    },
+    {
+      "file": "data/sample_data.sql",
+      "before": "'20 Example\nAvenue'",
+      "after": "'20 Example Avenue'"
+    },
+    {
+      "file": "data/sample_data.sql",
+      "before": "'2025-\n01-01'",
+      "after": "'2025-01-01'"
+    },
+    {
+      "file": "data/sample_data.sql",
+      "before": "'2026-10-\n15T08:00:00'",
+      "after": "'2026-10-15T08:00:00'"
+    },
+    {
+      "file": "data/sample_data.sql",
+      "before": "'2026-10-\n16T08:00:00'",
+      "after": "'2026-10-16T08:00:00'"
+    },
+    {
+      "file": "queries/Q5a_corporate_allocation.sql",
+      "before": "'ALLOWED:\nnormal stock'",
+      "after": "'ALLOWED: normal stock'"
+    },
+    {
+      "file": "queries/Q5a_corporate_allocation.sql",
+      "before": "'ALLOWED: Corporate\nexception'",
+      "after": "'ALLOWED: Corporate exception'"
+    },
+    {
+      "file": "queries/Q5b_retail_allocation.sql",
+      "before": "'ALLOWED:\nnormal stock'",
+      "after": "'ALLOWED: normal stock'"
+    },
+    {
+      "file": "queries/Q5b_retail_allocation.sql",
+      "before": "'ALLOWED: Corporate\nexception'",
+      "after": "'ALLOWED: Corporate exception'"
+    },
+    {
+      "file": "queries/Q5c_warranty_allocation.sql",
+      "before": "'ALLOWED:\nnormal stock'",
+      "after": "'ALLOWED: normal stock'"
+    },
+    {
+      "file": "queries/Q5c_warranty_allocation.sql",
+      "before": "'ALLOWED: Corporate\nexception'",
+      "after": "'ALLOWED: Corporate exception'"
+    }
+  ]
+}
