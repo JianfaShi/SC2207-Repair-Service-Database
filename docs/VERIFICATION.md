@@ -10,4 +10,4 @@ Checked on 11 November 2026 during repository assembly.
 - All local Markdown links resolve.
 - No full PDF, Word document, recording or contribution form is included.
 
-These are source-fidelity and packaging checks, not SQL Server execution tests. Database behavior and fresh outputs have not been independently verified in this session. The submitted diagram and schema documentation may differ from the SQL as described in SOURCE_NOTES.md.
+These are source-fidelity and packaging checks, not SQL Server execution tests. Database behavior and fresh outputs have not been independently verified in this session. The retained diagram and schema documentation may differ from the SQL as described in SOURCE_NOTES.md.

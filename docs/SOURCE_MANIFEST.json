@@ -16,23 +16,10 @@
       "method": "Byte-for-byte original"
     },
     {
-      "file": "diagrams/SC2207_LAB.drawio.png",
-      "source_file": "SC2207_LAB.drawio.png",
-      "source_sha256": "ce3d56dd857850f6b1fd065bd793646b8bf766afe7bfc02fc2bf1b80141c6282",
-      "method": "Byte-for-byte original"
-    },
-    {
       "file": "diagrams/SC2207_LAB.drawio (2).png",
       "source_file": "SC2207_LAB.drawio (2).png",
       "source_sha256": "b8d5f878bd1a30028e5c9206236ea211780d0beaef3f69e8a75c015244cbbd04",
       "method": "Byte-for-byte original"
-    },
-    {
-      "file": "diagrams/lab5-er-diagram.png",
-      "source_file": "Lab5_SDAG_Team3 (3).pdf",
-      "source_sha256": "105d86e2cb8dea53d8a3b64b32a635e88bfb0d7f2f1fdc874bc379b8b299b0be",
-      "method": "Embedded image extracted without redrawing",
-      "source_location": "PDF page 3"
     },
     {
       "file": "schema/create_tables.sql",

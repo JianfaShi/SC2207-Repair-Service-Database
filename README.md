@@ -6,19 +6,18 @@ The implementation contains **19 relational tables** and **seven numbered query 
 
 ## Database design
 
-![ER diagram extracted from the Lab 5 submission](diagrams/lab5-er-diagram.png)
+![TechPulse ER diagram](diagrams/SC2207_LAB.drawio%20%282%29.png)
 
 - [Relational schema, keys and normalization discussion](schema/relational-schema.md)
 - [SQL table definitions](schema/create_tables.sql)
-- [Original requested SC2207_LAB.drawio.png](diagrams/SC2207_LAB.drawio.png)
-- [Later SC2207_LAB.drawio (2).png](diagrams/SC2207_LAB.drawio%20%282%29.png)
+- [SC2207_LAB.drawio (2).png](diagrams/SC2207_LAB.drawio%20%282%29.png)
 
-The schema uses primary and foreign keys, composite keys for dependent records, and CHECK and UNIQUE constraints. The report decomposes BILLING into BILLING_CALCULATION and BILLING_STATEMENT. The original diagram files represent different versions; the image above is the diagram embedded in the selected Lab 5 report.
+The schema uses primary and foreign keys, composite keys for dependent records, and CHECK and UNIQUE constraints. The report decomposes BILLING into BILLING_CALCULATION and BILLING_STATEMENT.
 
 ## Repository layout
 
 ```text
-diagrams/                  Original diagram files and the Lab 5 embedded ER image
+diagrams/                  SC2207_LAB.drawio (2).png
 schema/
   relational-schema.md    Submitted relation tables and normalization text
   create_tables.sql       Table definitions extracted from Lab 5
@@ -64,6 +63,6 @@ The original query script's header refers to `techpulse_setup.sql`; the recovere
 
 Read the [submitted assumptions](docs/ASSUMPTIONS.md) alongside the queries. For example, requested warranty payouts are inferred from recorded refunds only under the stated fully approved sample-claim assumption. The schema does not store requested payout independently.
 
-Original SQL and diagram files are preserved unchanged. Extracted SQL retains the submitted logic; PDF-wrapped string literals were restored only when matched to the original standalone SQL. Documentation inconsistencies are recorded in [source notes](docs/SOURCE_NOTES.md), rather than silently revised.
+Original SQL and the retained diagram are preserved unchanged. Extracted SQL retains the submitted logic; PDF-wrapped string literals were restored only when matched to the original standalone SQL. Documentation inconsistencies are recorded in [source notes](docs/SOURCE_NOTES.md), rather than silently revised.
 
 SQL Server execution was not performed during repository assembly. The recovered report includes historical result screenshots, but this repository does not claim a fresh database test run. No new tables, queries, results or individual contribution claims have been invented.

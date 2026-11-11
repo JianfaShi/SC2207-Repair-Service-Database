@@ -8,7 +8,7 @@ This selection identifies the latest recovered local variant, not proof of what 
 
 | Repository content | Source |
 | --- | --- |
-| `diagrams/lab5-er-diagram.png` | Embedded image on report page 3, extracted without redrawing |
+| `diagrams/SC2207_LAB.drawio (2).png` | Unchanged local diagram export |
 | `schema/relational-schema.md` | Report pages 4-8; continued table rows joined |
 | `schema/create_tables.sql` | Report pages 9-14 |
 | `data/sample_data.sql` | Report pages 15-18 |
@@ -16,7 +16,6 @@ This selection identifies the latest recovered local variant, not proof of what 
 | Nine numbered query files | Report pages 23-37; individual page references in file headers |
 | `schema/originals/techpulse_setup_updated.sql` | Unchanged local standalone setup script |
 | `queries/originals/techpulse_queries_updated.sql` | Unchanged local standalone query script |
-| Two `SC2207_LAB.drawio*.png` files | Unchanged original local diagram exports |
 
 Source hashes and extraction transformations are recorded in [SOURCE_MANIFEST.json](SOURCE_MANIFEST.json). The original SQL files are working source artifacts, not assumed to be identical to every query printed in the report. The numbered query files are the submitted versions.
 
@@ -27,12 +26,11 @@ Source hashes and extraction transformations are recorded in [SOURCE_MANIFEST.js
 - CLIENT, CATALOG and WORK_SESSION list alternate functional dependencies while some normalization wording refers to only one non-trivial dependency. That wording is preserved as submitted.
 - Q4 retains the alias `approved_claims_with_qualifying_inspection` even though the submitted query has no Approved-only filter. Its payout interpretation depends on the report's stated assumption.
 - The standalone query script uses different formulations for several queries, including Q1's `DATEDIFF(MINUTE, ...)` compared with the submission's second-based duration calculation. The originals are retained in their own folders so these versions are not mixed.
-- The diagram named exactly `SC2207_LAB.drawio.png` is an earlier export. The ER image extracted from the selected Lab 5 report is presented as the primary preview.
 
 These notes describe source differences; they do not constitute a new correctness audit or changes to the submitted work.
 
 ## Completeness
 
-All requested categories were recovered: ER diagrams, relational schema tables, SQL table definitions, sample insertions and Lab 5 Queries 1-7. The complete report and recordings are intentionally excluded from this content-only repository. Fresh SQL Server execution results and independent confirmation of the official university submission are unavailable.
+All requested content categories were recovered: the retained ER diagram, relational schema tables, SQL table definitions, sample insertions and Lab 5 Queries 1-7. The complete report and recordings are intentionally excluded from this content-only repository. Fresh SQL Server execution results and independent confirmation of the official university submission are unavailable.
 
 The repository does not assign a new open-source license or claim sole authorship of the team coursework.
